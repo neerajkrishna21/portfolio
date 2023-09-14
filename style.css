@@ -96,6 +96,12 @@ nav ul li a:hover::after{
 
 }
 
+.header-text img {
+
+    margin-left: 30%;
+    width: 40%;
+  }
+
 /*----------------------------------about------------------------*/
 
 
